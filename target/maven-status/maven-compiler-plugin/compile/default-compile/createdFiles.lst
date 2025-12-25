@@ -1,0 +1,6 @@
+com\poly\Person.class
+com\poly\config\JerseyConfig.class
+com\poly\RestRouter.class
+com\poly\Test.class
+com\poly\PersonService.class
+com\poly\PersonServiceImpl.class
