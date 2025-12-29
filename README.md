@@ -148,7 +148,7 @@ tp_jpa
 
 ---
 ### Vidéo de démonstration
- Lien de la vidéo : vid_projet
+ Lien de la vidéo : https://drive.google.com/drive/folders/12m-__CX6jrk-bDOrcPBeLaXYOaQ74Llr?usp=sharing
 
 ### La vidéo présente :
 1. L’architecture globale
